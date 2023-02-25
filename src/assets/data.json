@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Angular",
+        "logo": "https://cdn.worldvectorlogo.com/logos/angular-icon.svg",
+        "description": "Angular es un framework de desarrollo de aplicaciones web creado y mantenido por Google. Es una herramienta de código abierto que permite a los desarrolladores crear aplicaciones web de una sola página (SPA) complejas y dinámicas utilizando HTML, CSS y TypeScript"
+    },
+    {
+        "name": "React",
+        "logo": "https://cdn.worldvectorlogo.com/logos/react-2.svg",
+        "description": "React es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario (UI) en aplicaciones web y móviles. Desarrollado por Facebook, React se enfoca en la creación de componentes reutilizables y se basa en el concepto de 'componentes' para estructurar las aplicaciones."
+    },
+    {
+        "name": "Vue",
+        "logo": "https://cdn.worldvectorlogo.com/logos/vue-9.svg",
+        "description": "Vue es un framework de JavaScript de código abierto utilizado para construir interfaces de usuario (UI) en aplicaciones web. Es fácil de aprender y se enfoca en la creación de componentes reutilizables y la reactividad en tiempo real de la interfaz de usuario."
+    },
+    {
+        "name": "Svelte",
+        "logo": "https://cdn.worldvectorlogo.com/logos/svelte-1.svg",
+        "description": "Svelte es un framework de JavaScript de código abierto utilizado para construir aplicaciones web. A diferencia de otros frameworks como React y Vue, Svelte se enfoca en la eficiencia del rendimiento y la reducción del tamaño del archivo final de la aplicación."
+    },
+    {
+        "name": "NodeJS",
+        "logo": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
+        "description": "Node.js es un entorno de tiempo de ejecución de JavaScript de código abierto que permite a los desarrolladores ejecutar JavaScript en el lado del servidor. Fue creado en 2009 por Ryan Dahl y se basa en el motor de JavaScript V8 de Google Chrome."
+    },
+    {
+        "name": "Deno",
+        "logo": "https://cdn.worldvectorlogo.com/logos/deno-1.svg",
+        "description": "Deno es un entorno de tiempo de ejecución de JavaScript de código abierto, creado por Ryan Dahl (el creador de Node.js) en 2018. Deno se enfoca en mejorar y corregir algunos de los problemas que se encontraron en Node.js."
+    }
+]
